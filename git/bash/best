@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "This school is so cool!"
 =======
 echo "Best school"
 >>>>>>> update_script
+=======
+echo "Best School"
+>>>>>>> ec85239a84cc8ecc29d75a54b789137b1900a314
